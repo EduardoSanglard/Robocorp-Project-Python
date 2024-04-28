@@ -1,0 +1,12 @@
+{
+    "First Name": {
+        "type": "windows",
+        "value": "automationid:\"radioButtonMale\" > automationid:\"textBoxPeopleFirstName\"",
+        "window": "My CRM (Sample App)",
+        "name": "First Name",
+        "element": {
+            "tag": "EditControl"
+        },
+        "version": 1
+    }
+}
